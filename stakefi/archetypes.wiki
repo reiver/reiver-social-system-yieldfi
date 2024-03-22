@@ -1,3 +1,5 @@
+wiki/1
+
 This document is a distillation of the **social-systems research** I did on the **StakeFi** social system.
 
 This analysis is meant to be **descriptive**.
