@@ -1,0 +1,63 @@
+This document is a distillation of the **social-systems research** I did on the **StakeFi** social system.
+
+This analysis is meant to be **descriptive**.
+I.e., it is trying to list out what is there.
+It is not a statement of what should or shouldn't be there.
+And is neither an endorsement or a condemnation of anything that is there.
+It is **description** of what seems to be observed.
+
+⚠️ This document tries to use "neutral" language in its descriptions.
+
+§ What Are Archetypes
+
+> archetypes (noun): an idealized model of a person or thing.
+
+From the point-of-view of **social-systems research** — an **archetype** is a model of some aspect of a person or things that is shared among many people or thigns.
+
+(
+UX people tend to call "**archetypes**": "**personas**".
+And marketers tend to call "**archetypes**": "**segments**".
+In practice, all 3 of these are very similar concepts.
+)
+
+Some examples of (non-StakeFi specific) archetypes include:
+
+• father,
+• mother,
+• son,
+• daughter
+• brother,
+• sister,
+• husband,
+• wife,
+• gardener,
+• farmer,
+• computer programmer,
+• grocery store cashier,
+• CEO,
+• CTO,
+• //etc//.
+
+You can also probably already see that an individual could express more than one **archetype**.
+For example — a single individual could be —
+a //father//,
+a //husband//,
+a //brother//,
+a //son//,
+a //CTO//, and
+a //computer programmer// **at the same time** during a certain span of their life.
+
+The archetypes an individual expresses could also change over their life-time too.
+For example — before someone has a child, they wouldn't be a //father// or a //mother// yet; but after they have a child, they would (also) become a //father//, or a //mother// (in addition to whatever other archetypes they express).
+
+§ Archetypes
+
+This document includes **archetypes** relevant that I have deemed "important" to **StakeFi**.
+
+§§ Fund Raiser
+
+One **StakeFi** **archetype** is the **fund raiser**.
+
+§§ Backer
+
+One **StakeFi** **archetype** is the **backer**.
