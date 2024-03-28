@@ -1,7 +1,7 @@
 wiki/1
 
 ~~~
-title = StakeFi Archetypes
+title = YieldFi Archetypes
 
 published = 2024-03-08T16:00:00-08:00
 updated   = 2024-03-22T12:56:23-07:00
@@ -11,7 +11,7 @@ name = Charles Iliya Krempeaux
 link = http://reiver.link/
 ~~~
 
-This document is a distillation of the **social-systems research** I did on the **StakeFi** social system.
+This document is a distillation of the **social-systems research** I did on the **YieldFi** social-system.
 
 This analysis is meant to be **descriptive**.
 I.e., it is trying to list out what is there.
@@ -33,7 +33,7 @@ And marketers tend to call "**archetypes**": "**segments**".
 In practice, all 3 of these are very similar concepts.
 )
 
-Some examples of (non-StakeFi specific) archetypes include:
+Some examples of (non-YieldFi specific) archetypes include:
 
 • father,
 • mother,
@@ -65,12 +65,12 @@ For example — before someone has a child, they wouldn't be a //father// or a /
 
 § Archetypes
 
-This document includes **archetypes** relevant that I have deemed "important" to **StakeFi**.
+This document includes **archetypes** relevant that I have deemed "important" to **YieldFi**.
 
 §§ Fund Raiser
 
-One **StakeFi** **archetype** is the **fund raiser**.
+One **YieldFi** **archetype** is the **fund raiser**.
 
 §§ Backer
 
-One **StakeFi** **archetype** is the **backer**.
+One **YieldFi** **archetype** is the **backer**.
