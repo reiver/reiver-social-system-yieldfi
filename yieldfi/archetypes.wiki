@@ -126,6 +126,16 @@ The **disengaged investor** **WANTS**:
 • finding something to invest in,
 • lack of (free) time.
 
+§§ Fan Backer
+
+One //YieldFi// archetype is the **fan backer**.
+
+A **fan backer** is someone who is genuinely interested in what the **fund raiser**'s project, product, etc.
+
+The **fan backer** does end up being an investor, because of the way //YieldFi// works — but some aren't interested in investing (outside of this context).
+
+The **fan backer** is often with the **fund raiser** for the long-term.
+
 §§ Fund Raiser
 
 One //YieldFi// archetype is the **fund raiser**.
@@ -136,11 +146,13 @@ One //YieldFi// archetype is the **influencer**.
 
 An **influencer** (in this context) is someone with an audience of people who pay attention to them.
 
-Often **influencers** engage with their audience —
+Often **influencers** engage with their audience by creating content  —
 
 • on micro-blogging platformats such as Twitter, Farcaster, the Fediverse,
 • on video platformats such as YouTube, and
 • within group chat applications such as Disord.
+
+Maybe **inclucers** will also have some form of direct conversations with some members of their audience.
 
 An **influencer** is sometimes called an “key opinion leader” or (and more often) a “KOL” (for short).
 
@@ -148,10 +160,27 @@ When marketers talk about **influencers**, it is often in the context of //influ
 
 When behavioral researchers talk about **influencers** they tend //not// to call them //influencers// but instead often call them //role models// or just //models//, in the context of //social learning//.
 
-The **influencer** minimum bar for investing, is —
+The **influencer** minimum bar for promoting a **backers** (archetype) project, product, etc, is —
 
 • so-so technology,
 • good marketing.
 
 (Marketing in this context includes //meme'ing//.)
 
+§§§ Influencer Wants:
+
+• to get rich,
+• to pay the bills,
+• to create multiple sources of income.
+
+§§§ Influencer Problems:
+
+• reputation management.
+
+§§ Service Company
+
+One //YieldFi// archetype is the **service company**.
+
+§§ Staking Node Owner
+
+One //YieldFi// archetype is the **staking node owner**.
