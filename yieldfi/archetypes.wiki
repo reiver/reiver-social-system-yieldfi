@@ -67,13 +67,52 @@ This document includes **archetypes** relevant that I have deemed "important" to
 
 §§ Backer
 
-One **YieldFi** **archetype** is the **backer**.
+One //YieldFi// archetype is the **backer**.
+
+A **backer** is someone who is willing to fund the project, product, or anything else from the **fund raiser** (archetype).
+
+With YieldFi, **backing** a project is different than crowd-funding platforms.
+With crowd-funding platforms, typically the **backer** gives the **fund raiser** fiat currency.
+With YieldFi, the **backer** //lends// (rather than //gives//) the **fund raiser** something (such a cryptocurreny, NFTs, tokens, etc).
+The **fund raiser** then uses this principal (that was lent to them) to //stake//.
+This staking produces a //yield//.
+The **fund raiser** keeps the //yield// and gives the **backer** back their principal.
+
+There are different types of **backers** —
+
+• **degen**,
+• **disengaged investor**,
+• **fan backer**,
+
+§§ Degen
+
+One //YieldFi// archetype is the **degen**.
+
+(The word “degen” is a form of slang, and is derived from the word “degenerate”.)
+
+The **degen** is a type of //short-term// investor.
+
+The **degen** is attracted to investments that pay-off within 6 months to 1 year — or less, if possible.
+
+What a **degen** invests in is —
+
+• affected by //memes//, and
+• affected by **influencers** (archetype).
+
+The **degen** minimum bar for investing, is —
+
+• so-so technology,
+• good marketing.
+
+(Marketing in this context includes //meme'ing//.)
 
 §§ Fund Raiser
 
-One **YieldFi** **archetype** is the **fund raiser**.
+One //YieldFi// archetype is the **fund raiser**.
 
 §§ Influencer
+
+One //YieldFi// archetype is the **influencer**.
 
 An **influencer** (in this context) is someone with an audience of people who pay attention to them.
 
