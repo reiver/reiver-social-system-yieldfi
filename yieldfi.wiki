@@ -1,7 +1,3 @@
 wiki/1
 
----
-title = YieldFi
----
-
-• [[archetypes]]
+• [[yieldfi/archetypes]]
