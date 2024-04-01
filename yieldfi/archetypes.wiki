@@ -4,11 +4,9 @@ wiki/1
 title = YieldFi Archetypes
 
 published = 2024-03-08T16:00:00-08:00
-updated   = 2024-03-22T12:56:23-07:00
+updated   = 2024-04-01T14:57:23-07:00
 
-[author]
-name = Charles Iliya Krempeaux
-link = http://reiver.link/
+author.name = Charles Iliya Krempeaux
 ~~~
 
 This document is a distillation of the **social-systems research** I did on the **YieldFi** social-system.
@@ -67,10 +65,26 @@ For example — before someone has a child, they wouldn't be a //father// or a /
 
 This document includes **archetypes** relevant that I have deemed "important" to **YieldFi**.
 
+§§ Backer
+
+One **YieldFi** **archetype** is the **backer**.
+
 §§ Fund Raiser
 
 One **YieldFi** **archetype** is the **fund raiser**.
 
-§§ Backer
+§§ Influencer
 
-One **YieldFi** **archetype** is the **backer**.
+An **influencer** (in this context) is someone with an audience of people who pay attention to them.
+
+Often **influencers** engage with their audience —
+
+• on micro-blogging platformats such as Twitter, Farcaster, the Fediverse,
+• on video platformats such as YouTube, and
+• within group chat applications such as Disord.
+
+An **influencer** is sometimes called an “key opinion leader” or (and more often) a “KOL” (for short).
+
+When marketers talk about **influencers**, it is often in the context of //influencer marketing//.
+
+When behavioral researchers talk about **influencers** they tend //not// to call them //influencers// but instead often call them //role models// or just //models//, in the context of //social learning//.
