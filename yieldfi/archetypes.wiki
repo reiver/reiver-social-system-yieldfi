@@ -82,7 +82,7 @@ There are different types of **backers** —
 
 • **degen**,
 • **disengaged investor**,
-• **fan backer**,
+• **fan backer**.
 
 §§ Degen
 
@@ -99,12 +99,32 @@ What a **degen** invests in is —
 • affected by //memes//, and
 • affected by **influencers** (archetype).
 
-The **degen** minimum bar for investing, is —
+The **degen** **WANTS**:
 
-• so-so technology,
-• good marketing.
+• to get rich.
 
-(Marketing in this context includes //meme'ing//.)
+**PROBLEMS** that the **degen** has are:
+
+• dealing with taxes,
+• finding something to invest in.
+
+§§ Disengaged Investor
+
+One //YieldFi// archetype is the **disengaged investor**.
+
+The **disengaged investor** is a type of //medium-term// to //long-term// investor.
+
+(The **disengaged investor** may have been a **degen** before — but due to having less free time (due to work, family, life, etc has transformed into a **disengaged investor**)
+
+The **disengaged investor** **WANTS**:
+
+• to get rich.
+
+**PROBLEMS** that the **degen** has are:
+
+• dealing with taxes,
+• finding something to invest in,
+• lack of (free) time.
 
 §§ Fund Raiser
 
@@ -127,3 +147,11 @@ An **influencer** is sometimes called an “key opinion leader” or (and more o
 When marketers talk about **influencers**, it is often in the context of //influencer marketing//.
 
 When behavioral researchers talk about **influencers** they tend //not// to call them //influencers// but instead often call them //role models// or just //models//, in the context of //social learning//.
+
+The **influencer** minimum bar for investing, is —
+
+• so-so technology,
+• good marketing.
+
+(Marketing in this context includes //meme'ing//.)
+
